@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icone/mainwindow">
+        <file alias="bar.svg">All_icns/Mainwidow_icns/bar-chart.svg</file>
+        <file alias="draw.png">All_icns/Mainwidow_icns/draw.png</file>
+        <file alias="exit.png">All_icns/Mainwidow_icns/exit.png</file>
+        <file alias="info.png">All_icns/Mainwidow_icns/info.png</file>
+        <file alias="load.png">All_icns/Mainwidow_icns/load.png</file>
+        <file alias="save.png">All_icns/Mainwidow_icns/save.png</file>
+        <file alias="support.png">All_icns/Mainwidow_icns/support.png</file>
+    </qresource>
+    <qresource prefix="/icone/aide">
+        <file alias="Asc.png">All_icns/help_icns/Asc.png</file>
+        <file alias="desc.png">All_icns/help_icns/desc.png</file>
+        <file alias="Qtab_theme.png">All_icns/help_icns/Qtab_theme.png</file>
+        <file alias="Qtab_themeReset.png">All_icns/help_icns/Qtab_themeReset.png</file>
+        <file alias="resize.png">All_icns/help_icns/resize.png</file>
+        <file alias="verified">All_icns/help_icns/verified.gif</file>
+    </qresource>
+    <qresource prefix="/watermark">
+        <file alias="UA_watermark.png">All_icns/watermark_icns/UA_watermark.png</file>
+        <file alias="unnamed.ico">All_icns/watermark_icns/unnamed.ico</file>
+        <file alias="V.png">All_icns/watermark_icns/V.png</file>
+    </qresource>
+</RCC>
